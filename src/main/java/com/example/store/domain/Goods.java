@@ -20,7 +20,7 @@ public class Goods {
 	
 	private int availableCount;
 	
-	private boolean isPost;
+	private boolean isPost; 		//TODO Переделать под несколько магазинов, проверка наличия в магазинах
 	
 	private Date deliveryDate;
 	
